@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "ぼくらはみんな意味不明",
+  "base_artist": "ピノキオピー",
+  "createdAt": "2025-12-23T05:34:59.790036Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ぼくらはみんな意味不明",
+      "artist": "ピノキオピー feat. 初音ミク",
+      "has_synced": true,
+      "path": "select/01_ぼくらはみんな意味不明_ピノキオピー_feat._初音ミク.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ぼくらはみんな意味不明",
+      "artist": "ピノキオピー",
+      "has_synced": true,
+      "path": "select/02_ぼくらはみんな意味不明_ピノキオピー.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ぼくらはみんな意味不明",
+      "artist": "PinocchioP",
+      "has_synced": true,
+      "path": "select/03_ぼくらはみんな意味不明_PinocchioP.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ぼくらはみんな意味不明",
+      "artist": "ピノキオピー",
+      "has_synced": true,
+      "path": "select/04_ぼくらはみんな意味不明_ピノキオピー.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ぼくらはみんな意味不明",
+      "artist": "ピノキオピー",
+      "has_synced": true,
+      "path": "select/05_ぼくらはみんな意味不明_ピノキオピー.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ぼくらはみんな意味不明",
+      "artist": "Various Artists",
+      "has_synced": true,
+      "path": "select/06_ぼくらはみんな意味不明_Various_Artists.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ピノキオピー - ぼくらはみんな意味不明 feat. 初音ミク / Nobody Makes Sense",
+      "artist": "PinocchioP",
+      "has_synced": true,
+      "path": "select/07_ピノキオピー_-_ぼくらはみんな意味不明_feat._初音ミク___Nobody_Makes_Sense_PinocchioP.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ぼくらはみんな意味不明",
+      "artist": "ピノキオピー",
+      "has_synced": false,
+      "path": "select/pl_01_ぼくらはみんな意味不明_ピノキオピー.txt"
+    }
+  ]
+}
